@@ -145,6 +145,6 @@ check the phase first.
 
 Next up:
 
-**`02-single-qubit-world/bloch-sphere-intuition.md`**
+[**`02-single-qubit-world/bloch-sphere-intuition.md`**](../02-single-qubit-world/bloch-sphere-intuition.md)
 
 Where arrows finally get a globe to live on.

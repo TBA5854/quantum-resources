@@ -135,7 +135,7 @@ It is what happens when tensor products stop factoring.
 
 Next up:
 
-**`04-qiskit-basics/README.md`**
+[**`04-qiskit-basics/README.md`**](../04-qiskit-basics/README.md)
 
 Where we finally touch code —
 but with our intuition fully armed.

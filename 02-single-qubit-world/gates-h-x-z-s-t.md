@@ -134,6 +134,6 @@ That question never lies.
 
 Next up:
 
-**`02-single-qubit-world/measurement.md`**
+[**`02-single-qubit-world/measurement.md`**](./measurement.md)
 
 Where we confront the most destructive operation in quantum computing.

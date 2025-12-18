@@ -148,7 +148,7 @@ try to picture the rotations.
 
 Next up:
 
-**`02-single-qubit-world/gates-h-x-z-s-t.md`**
+[**`02-single-qubit-world/gates-h-x-z-s-t.md`**](./gates-h-x-z-s-t.md)
 
 Where we take the most common gates
 and watch exactly how they move the arrow.

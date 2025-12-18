@@ -118,7 +118,7 @@ We are laying the floor, not decorating yet.
 
 Next up:
 
-**`03-multiple-qubits/entanglement-is-not-magic.md`**
+[**`03-multiple-qubits/entanglement-is-not-magic.md`**](./entanglement-is-not-magic.md)
 
 Where the phrase “cannot be written as a tensor product”
 finally becomes meaningful.

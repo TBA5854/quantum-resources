@@ -126,6 +126,6 @@ But it will never stop being **geometry under pressure**.
 
 Next up:
 
-**`01-linear-algebra-with-meaning/vectors-as-states.md`**
+[**`01-linear-algebra-with-meaning/vectors-as-states.md`**](../01-linear-algebra-with-meaning/vectors-as-states.md)
 
 This is where we connect arrows to math — carefully, and without panic.

@@ -145,8 +145,7 @@ Everything else is detail.
 
 Next up:
 
-**`complex-numbers-not-scary.md`**
+[**`complex-numbers-not-scary.md`**](./complex-numbers-not-scary.md)
 
 Where we explain why `i` exists
 without summoning trauma from math class.
-rrrr

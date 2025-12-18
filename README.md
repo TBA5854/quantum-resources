@@ -53,6 +53,23 @@ Each section builds exactly one new idea:
 
 Skipping ahead will work… until it doesn’t.
 
+---
+
+## Learning Path
+
+Start here and follow in order:
+
+1. **[Why Quantum?](./00-why-quantum)** — Where classical computing fails and why quantum mechanics helps
+2. **[Linear Algebra with Meaning](./01-linear-algebra-with-meaning)** — Vectors as states, complex numbers as rotations
+3. **[Single Qubit World](./02-single-qubit-world)** — The Bloch sphere, gates, and measurement
+4. **[Multiple Qubits](./03-multiple-qubits)** — Tensor products and entanglement
+5. **[Qiskit Basics](./04-qiskit-basics)** — From theory to code
+6. **[QFT and Arithmetic](./05-qft-and-arithmetic)** — Phase as information
+7. **[Algorithms](./06-algorithms)** — Deutsch-Jozsa, Grover, and Shor
+8. **[Appendix](./appendix)** — Common mistakes and deeper dives
+
+---
+
 ## What you’ll actually learn
 
 By the end, you should be able to:

@@ -151,7 +151,7 @@ Never casual.
 
 Next up:
 
-**`03-multiple-qubits/tensor-product-intuition.md`**
+[**`03-multiple-qubits/tensor-product-intuition.md`**](../03-multiple-qubits/tensor-product-intuition.md)
 
 Where one qubit becomes many,
 and intuition starts to wobble.

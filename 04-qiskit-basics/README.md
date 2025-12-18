@@ -144,7 +144,7 @@ the syntax will stop feeling hostile.
 
 Next up:
 
-**`first-circuit.ipynb`**
+[**`first-circuit.md`**](./first-circuit.md)
 
 Where we build the smallest possible circuit
 and refuse to measure it.
