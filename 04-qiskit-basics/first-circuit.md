@@ -141,7 +141,7 @@ If you internalize this now, everything later becomes easier.
 
 ### Next file
 
-**`statevector-vs-measurement.md`**
+[**`statevector-vs-measurement.md`**](./statevector-vs-measurement.md)
 
 Where we directly compare  
 “what the computer knows”  
